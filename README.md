@@ -391,3 +391,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ for the Stellar ecosystem
+
+<!-- fix: issue #187 - fix: [Documentation] Missing upgrade procedure document -->
